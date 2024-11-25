@@ -11,6 +11,7 @@ function color() {
 
 setInterval(color, 200);
 
-const music = new Audio("./moon-crystals.mp3");
+const music = new Audio("moon-crystals.mp3");
 music.play();
 music.loop();
+music.volume = 1;
