@@ -24,6 +24,7 @@ h1 {
     background-color: #FFFFFF;
     width: 200px;
     height: 200px;
+    animation : animation 2s linear infinite;
 }
 
 @keyframes animation {
